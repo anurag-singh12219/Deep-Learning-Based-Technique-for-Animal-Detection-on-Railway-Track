@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Runtime/generated data
+output/
+output_images/
+output_videos/
+# input_images/
+input_video/
+
+# Model artifacts (large files)
+yolov8x.pt
+backend/yolov8x.pt
+
+# Local editor settings
+.vscode/
