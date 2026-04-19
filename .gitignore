@@ -15,7 +15,7 @@ output/
 output_images/
 output_videos/
 # input_images/
-input_video/
+# input_video/
 
 # Model artifacts (large files)
 yolov8x.pt
